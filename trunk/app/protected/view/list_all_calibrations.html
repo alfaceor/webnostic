@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <!-- include 'header' -->
+  </head>
+    <!-- include 'topbar' -->
+    <!-- include 'navbar' -->
+    <h1>{{title}}</h1>
+  <body>
+    <table border="0">
+        <caption> You can change the users data.</caption>
+
+        <thead>
+        <tr>
+            <th>id</th>
+            <th>user id</th>
+            <th>value</th>
+            <th>status_id</th>
+            <th>ts</th>
+            <th>description</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <!-- loop calibrations -->
+        <tr>
+            <td><a href="{{baseurl}}index.php/admin/updateuser/id/{{users' value.@id}}" > {{calibrations' value.@id}}</a></td>
+            <td> {{calibrations' value.@user_id}}       </td>
+            <td> {{calibrations' value.@value}}         </td>
+            <td> {{calibrations' value.@status_id}}     </td>
+            <td> {{calibrations' value.@ts}}            </td>
+            <td> {{calibrations' value.@description}}   </td>
+        </tr>
+        <!-- endloop -->
+        </tbody>
+    </table>
+    <div>{{pager}}</div>
+  </body>
+</html>

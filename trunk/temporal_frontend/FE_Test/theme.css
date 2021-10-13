@@ -1,0 +1,45 @@
+body{
+background-color:black;
+color:white;
+}
+#principal{
+	border:1px;
+	background-color:#28323B;
+	position:absolute;
+	float:left;
+	left:41%;
+	top:40%;
+	padding:2px;
+	color:#9E9F83;
+}
+#otras{
+	width:100px;
+	color:#9E9F83;
+	border:1px;
+	background-color:#28323B;
+	position:absolute;
+	left:32%;
+	top:40%;
+	float:left;
+	padding:2px;
+}
+h1{
+	color:white;
+	background-color:black;
+	position:absolute;
+	left:30%;
+	top:20%
+}
+a:hover{
+	color:white;
+}
+a:visited{
+	color:#829F82;
+}
+a:link{
+	color:#294C30;
+}
+a:active{
+	color:#294C30;
+	font-weihght:bold;
+}

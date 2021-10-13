@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32/trunk/app/protected/config
+END
+acl.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18/trunk/app/protected/config/acl.conf.php
+END
+routes.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32/trunk/app/protected/config/routes.conf.php
+END
+db.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/app/protected/config/db.conf.php
+END
+common.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/app/protected/config/common.conf.php
+END
+route.conf.alternative.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/app/protected/config/route.conf.alternative.php
+END
+acl.conf.alternative.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/app/protected/config/acl.conf.alternative.php
+END

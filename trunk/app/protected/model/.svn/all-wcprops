@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/app/protected/model
+END
+Status.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13/trunk/app/protected/model/Status.php
+END
+SampleStatusLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/app/protected/model/SampleStatusLog.php
+END
+Calibration.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/app/protected/model/Calibration.php
+END
+CalibrationStatusLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13/trunk/app/protected/model/CalibrationStatusLog.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/16/trunk/app/protected/model/User.php
+END
+Sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/app/protected/model/Sample.php
+END

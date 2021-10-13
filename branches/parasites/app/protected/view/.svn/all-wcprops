@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/branches/parasites/app/protected/view
+END
+list_all_samples.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/42/branches/parasites/app/protected/view/list_all_samples.html
+END
+topbar.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/branches/parasites/app/protected/view/topbar.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37/branches/parasites/app/protected/view/header.html
+END
+general_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/46/branches/parasites/app/protected/view/general_template.html
+END
+home.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/branches/parasites/app/protected/view/home.html
+END
+navbar.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/branches/parasites/app/protected/view/navbar.html
+END
+jobresult.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/46/branches/parasites/app/protected/view/jobresult.html
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/branches/parasites/app/protected/view/template.html
+END
+list_all_calibrations.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/46/branches/parasites/app/protected/view/list_all_calibrations.html
+END
+userform.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/46/branches/parasites/app/protected/view/userform.html
+END
+list_all_users.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/46/branches/parasites/app/protected/view/list_all_users.html
+END
+newjob.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/branches/parasites/app/protected/view/newjob.html
+END

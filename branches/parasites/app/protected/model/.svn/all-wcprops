@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/branches/parasites/app/protected/model
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/branches/parasites/app/protected/model/User.php
+END
+Sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/branches/parasites/app/protected/model/Sample.php
+END
+Status.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37/branches/parasites/app/protected/model/Status.php
+END
+SampleStatusLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/37/branches/parasites/app/protected/model/SampleStatusLog.php
+END
+Calibration.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/37/branches/parasites/app/protected/model/Calibration.php
+END
+CalibrationStatusLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/37/branches/parasites/app/protected/model/CalibrationStatusLog.php
+END

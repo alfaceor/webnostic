@@ -1,0 +1,10 @@
+TODO:
+Change APIs
+Make triggers for the logs.
+Make forms validations
+
+UPDATED:
+jobresult.html
+Sample.php
+gallery.tmbmods/lista_mensajes.php
+www.upch.edu.pe/parasites/api/sms/list2send

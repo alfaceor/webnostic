@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/61/branches/tbmods_com/dooframework/db
+END
+DooModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/61/branches/tbmods_com/dooframework/db/DooModel.php
+END
+DooSqlMagic.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/61/branches/tbmods_com/dooframework/db/DooSqlMagic.php
+END
+DooDbExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61/branches/tbmods_com/dooframework/db/DooDbExpression.php
+END
+DooMasterSlave.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/branches/tbmods_com/dooframework/db/DooMasterSlave.php
+END
+DooSmartModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/61/branches/tbmods_com/dooframework/db/DooSmartModel.php
+END
+DooModelGen.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/61/branches/tbmods_com/dooframework/db/DooModelGen.php
+END

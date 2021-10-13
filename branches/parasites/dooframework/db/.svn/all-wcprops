@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/branches/parasites/dooframework/db
+END
+DooDbExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/37/branches/parasites/dooframework/db/DooDbExpression.php
+END
+DooMasterSlave.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/branches/parasites/dooframework/db/DooMasterSlave.php
+END
+DooSmartModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37/branches/parasites/dooframework/db/DooSmartModel.php
+END
+DooModelGen.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/37/branches/parasites/dooframework/db/DooModelGen.php
+END
+DooModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/branches/parasites/dooframework/db/DooModel.php
+END
+DooSqlMagic.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/37/branches/parasites/dooframework/db/DooSqlMagic.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1/trunk/dooframework/db
+END
+DooModelGen.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/trunk/dooframework/db/DooModelGen.php
+END
+DooModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/trunk/dooframework/db/DooModel.php
+END
+DooSqlMagic.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/trunk/dooframework/db/DooSqlMagic.php
+END
+DooDbExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/trunk/dooframework/db/DooDbExpression.php
+END
+DooMasterSlave.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/dooframework/db/DooMasterSlave.php
+END
+DooSmartModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1/trunk/dooframework/db/DooSmartModel.php
+END

@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>{{title}}</title>
+  </head>
+    <h1>{{title}}</h1>
+  <body>
+      <!-- include 'topbar' -->
+      <!-- include 'navbar' -->
+    <table border="0">
+        <caption> Usted puede cambiar los datos de los usuarios dando click en el link.</caption>
+        <thead>
+        <tr>
+            <th>id</th>
+            <th>username</th>
+            <th>nombres</th>
+            <th>apellidos</th>
+            <th>correo</th>
+            <th>telefono</th>
+        </tr>
+        </thead>
+        
+        <tbody>
+        <!-- loop users -->
+        <tr>
+            <td><a href="{{baseurl}}index.php/admin/updateuser/id/{{users' value.@id}}" > {{users' value.@id}}</a></td>
+            <td> {{users' value.@username}}  </td>
+            <td> {{users' value.@nombres}}   </td>
+            <td> {{users' value.@apellidos}} </td>
+            <td> {{users' value.@correo}}    </td>
+            <td> {{users' value.@telefono}}  </td>
+        </tr>
+        <!-- endloop -->
+        </tbody>
+    </table>
+    <div>{{pager}}</div>
+  </body>
+</html>

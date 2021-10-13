@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/trunk/dooframework/cache
+END
+DooFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/trunk/dooframework/cache/DooFileCache.php
+END
+DooApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/dooframework/cache/DooApcCache.php
+END
+DooPhpCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/dooframework/cache/DooPhpCache.php
+END
+DooXCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/trunk/dooframework/cache/DooXCache.php
+END
+DooFrontCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/dooframework/cache/DooFrontCache.php
+END
+DooEAcceleratorCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/trunk/dooframework/cache/DooEAcceleratorCache.php
+END
+DooMemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/dooframework/cache/DooMemCache.php
+END

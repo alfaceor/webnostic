@@ -1,0 +1,9 @@
+Esto es solo una solcion temporal para el frontend de tbmods
+
+Se va a necesitar lo siguiente.
+
+1. Los scripts de interaccion con los webservice
+2. una pequenia base de datos para almacenar los resultados de los samples
+3. unas vistas para la interaccion con el usuario escritas en php de la forma mas sencilla posible.
+4. que sea solo monousuario.
+

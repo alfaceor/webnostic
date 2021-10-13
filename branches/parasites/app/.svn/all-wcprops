@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/53/branches/parasites/app
+END
+.htaccess.example
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/37/branches/parasites/app/.htaccess.example
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/branches/parasites/app/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/branches/parasites/app/index.php
+END
+mysql_webnostic.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/38/branches/parasites/app/mysql_webnostic.sql
+END

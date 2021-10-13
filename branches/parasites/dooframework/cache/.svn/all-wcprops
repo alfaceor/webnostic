@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/branches/parasites/dooframework/cache
+END
+DooMemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/branches/parasites/dooframework/cache/DooMemCache.php
+END
+DooFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/37/branches/parasites/dooframework/cache/DooFileCache.php
+END
+DooApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/branches/parasites/dooframework/cache/DooApcCache.php
+END
+DooPhpCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/branches/parasites/dooframework/cache/DooPhpCache.php
+END
+DooXCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/branches/parasites/dooframework/cache/DooXCache.php
+END
+DooFrontCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37/branches/parasites/dooframework/cache/DooFrontCache.php
+END
+DooEAcceleratorCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/37/branches/parasites/dooframework/cache/DooEAcceleratorCache.php
+END

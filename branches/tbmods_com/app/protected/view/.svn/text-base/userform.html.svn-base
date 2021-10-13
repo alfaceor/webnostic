@@ -1,0 +1,100 @@
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- include 'header' -->
+</head>
+<body>
+    <!-- include 'topbar' -->
+    <!-- include 'navbar' -->
+    <div class="content">
+        <h1>{{title}}</h1>
+        <p>The baseurl is {{baseurl}}</p>
+        <p><span class="boldy">{{content}}</span></p>
+        <p>{{debug(printr)}}
+            <form id="userform" action="{{save_user}}" method="post">
+                
+                <table>
+                <tr>
+                    <td>
+                        username
+                    </td>
+                    <td>
+                        <!-- if {{method_flag}}=='updateUser' -->
+                        <input id="username" readonly="readonly" type="text" name="username" value="{{username}}" />
+                        <!-- else -->
+                        <input id="username" type="text" name="username" value="{{username}}" />
+                        <!-- endif -->
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        password
+                    </td>
+                    <td>
+                        <input id="password" type="password" name="password" value="{{password}}" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        name
+                    </td>
+                    <td>
+                        <input id="nombres" type="text" name="nombres"  value="{{nombres}}" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        lastname
+                    </td>
+                    <td>
+                        <input id="apellidos" type="text" name="apellidos" value="{{apellidos}}" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        email
+                    </td>
+                    <td>
+                        <input id="correo" type="text" name="correo" value="{{correo}}" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        cellphone
+                    </td>
+                    <td>
+                        <input id="telefono" type="text" name="telefono" value="{{telefono}}" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        usertype
+                    </td>
+                    <td>
+                        <input type="radio" name="type" value="0" checked /> Member<br />
+                        <input type="radio" name="type" value="1" /> Admin
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        userstatus
+                    </td>
+                    <td>
+                        <input type="radio" name="status" value="1" checked /> Active <br />
+                        <input type="radio" name="status" value="0" /> Inactive
+                    </td>
+                </tr>
+                </table>
+                <input type="submit" value="save"/>
+            </form>
+        </p>
+        <span class="totop"><a href="javascript:history.back()">BACK TO LAST PAGE</a></span>
+    </div>
+</body>
+</html>

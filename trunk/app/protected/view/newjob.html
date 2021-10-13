@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <!-- include 'header' -->
+  </head>
+  <body>
+    <!-- include 'topbar' -->
+    <!-- include 'navbar' -->
+    <div id="content">
+    <h1>Submit {{jobtype}}</h1>
+        <h2>Mandatory parameters</h2>
+        <form id="jobform" method="post" action="{{action}}" enctype="multipart/form-data">
+
+        <!-- if {{jobtype}} == sample -->
+            
+            <!-- if {{calibrations}} == NULL -->
+            You <b>must</b> have a calibration value, please submit a <a href="{{baseurl}}index.php/jobs/calibration/submit">calibration</a>  image.
+            <!-- else -->
+            Upload a {{jobtype}} image: <input id="uploadedfile" name="uploadedfile" type="file"/><br /><br />
+            Choose a microscope:
+            <select name="calibration_value" id="calibration_value">
+                <!-- loop calibrations -->
+                <option value="{{calibrations' value.@value}}" />{{calibrations' value.@description}} - Value: {{calibrations' value.@value}}
+                <!-- endloop -->
+            </select>
+            <input value="submit" type="submit" />
+            <!-- endif -->
+        <br />
+        <!-- else -->
+            Upload a {{jobtype}} image: <input id="uploadedfile" name="uploadedfile" type="file"/><br /><br />
+            Description name for the calibration factor: <input id="description" name="description" type="text"/><br /><br />
+            <input value="submit" type="submit" />
+
+        <!-- endif -->
+        </form>
+    </div>
+  </body>
+</html>

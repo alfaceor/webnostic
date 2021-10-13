@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/branches/parasites/apis_test
+END
+curl_putSampleResult.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/branches/parasites/apis_test/curl_putSampleResult.sh
+END
+curl_getSampleJob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/branches/parasites/apis_test/curl_getSampleJob.sh
+END
+hmac_sha1_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/branches/parasites/apis_test/hmac_sha1_test.py
+END
+curl_putCalibrationResult.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/branches/parasites/apis_test/curl_putCalibrationResult.sh
+END
+curl_getCalibrationJob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/branches/parasites/apis_test/curl_getCalibrationJob.sh
+END
+meta.inf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/48/branches/parasites/apis_test/meta.inf
+END

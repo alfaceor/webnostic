@@ -1,0 +1,21 @@
+<div id="topbar">
+    <!-- if {{user}} == Null -->
+        <form id="loginform" action="{{baseurl}}index.php/login" method="post">
+            <div style="float:left">
+                <span class="normal">Usuario:</span>
+                <input name="username" type="text" style="width:100px;" maxlength="64" value=""/>
+                <span class="normal">Contrase&ntilde;a:</span>
+                <input name="password" type="password" style="width:100px;" maxlength="64" value=""/>
+                <br/>
+            </div>
+            <div style="float:left">
+                <input type="submit" value="Login" style="margin-left:10px;margin-top:0px;width:90px;height:30px;" />
+            </div>
+        </form>
+    <!-- else -->
+        <form action="{{baseurl}}index.php/logout" method="post">
+                <p class="normal">Hola, <strong>{{user.username}}</strong>! Usted es {{user.nombres}} {{user.apellidos}} <input type="submit" value="Logout"/></p>
+        </form>
+    <!-- endif -->
+</div>
+

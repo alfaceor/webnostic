@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/53/branches/parasites/app/protected/config
+END
+acl.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37/branches/parasites/app/protected/config/acl.conf.php
+END
+routes.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/44/branches/parasites/app/protected/config/routes.conf.php
+END
+db.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/53/branches/parasites/app/protected/config/db.conf.php
+END
+common.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37/branches/parasites/app/protected/config/common.conf.php
+END
+route.conf.alternative.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/37/branches/parasites/app/protected/config/route.conf.alternative.php
+END
+acl.conf.alternative.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37/branches/parasites/app/protected/config/acl.conf.alternative.php
+END

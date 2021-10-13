@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+      <!-- include 'header' -->
+  </head>
+  <body>
+      <!-- include 'topbar' -->
+      <!-- include 'navbar' -->
+    <div id="result_table">
+    Data Table
+    <table border="0">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>user_id</th>
+                <th>result</th>
+                <th>score</th>
+                <th>calibration_value</th>
+                <th>status_id</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{id}}               </td>
+                <td>{{user_id}}          </td>
+                <td>{{result}}           </td>
+                <td>{{score}}            </td>
+                <td>{{calibration_value}}</td>
+                <td>{{status_id}}        </td>
+            </tr>
+        </tbody>
+    </table>
+    </div>
+
+    <div id="image_portrait">
+        <img src="{{image_url}}" ></img>
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/61/branches/tbmods_com/apis_test
+END
+curl_getCalibrationJob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61/branches/tbmods_com/apis_test/curl_getCalibrationJob.sh
+END
+meta.inf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/61/branches/tbmods_com/apis_test/meta.inf
+END
+curl_putSampleResult.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/61/branches/tbmods_com/apis_test/curl_putSampleResult.sh
+END
+curl_getSampleJob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/61/branches/tbmods_com/apis_test/curl_getSampleJob.sh
+END
+hmac_sha1_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/61/branches/tbmods_com/apis_test/hmac_sha1_test.py
+END
+curl_putCalibrationResult.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/61/branches/tbmods_com/apis_test/curl_putCalibrationResult.sh
+END

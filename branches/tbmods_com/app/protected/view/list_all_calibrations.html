@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <!-- include 'header' -->
+  </head>
+    <!-- include 'topbar' -->
+    <!-- include 'navbar' -->
+    <h1>{{title}}</h1>
+  <body>
+    <table border="0">
+        <caption> You can change the users data...</caption>
+
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>USER ID</th>
+            <th>Value</th>
+            <th>Status_id</th>
+            <th>TS</th>
+            <th>Description</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <!-- loop calibrations -->
+        <tr>
+            <td><a href="{{baseurl}}index.php/jobs/calibration/{{calibrations' value.@id}}" > {{calibrations' value.@id}}</a></td>
+            <td> {{calibrations' value.@user_id}}       </td>
+            <td> {{calibrations' value.@value}}         </td>
+            <td> {{calibrations' value.@status_id}}     </td>
+            <td> {{calibrations' value.@ts}}            </td>
+            <td> {{calibrations' value.@description}}   </td>
+        </tr>
+        <!-- endloop -->
+        </tbody>
+    </table>
+    <div>{{pager}}</div>
+  </body>
+</html>

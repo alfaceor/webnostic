@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+      <!-- include 'header' -->
+  </head>
+  <body>
+      <!-- include 'topbar' -->
+      <!-- include 'navbar' -->
+    <div id="result_table">
+    Data Table
+    <table border="0">
+        <caption><h2>Data general</h2></caption>
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>user_id</th>
+                <th>calibration_value</th>
+                <th>status_id</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{id}}               </td>
+                <td>{{user_id}}          </td>
+                <td>{{calibration_value}}</td>
+                <td>{{status_id}}        </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table border="0">
+        <caption><h3>Trichuris</h3></caption>
+        <thead>
+            <tr>
+                <th>result</th>
+                <th>score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{trichu_result}}           </td>
+                <td>{{trichu_score}}            </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table border="0">
+        <caption><h3>Diphy</h3></caption>
+        <thead>
+            <tr>
+                <th>resultado</th>
+                <th>score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{diphy_result}}           </td>
+                <td>{{diphy_score}}            </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table border="0">
+        <caption><h3>Fasciola</h3></caption>
+        <thead>
+            <tr>
+                <th>resultado</th>
+                <th>score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{fascio_result}}           </td>
+                <td>{{fascio_score}}            </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table border="0">
+        <caption><h3>Taenia</h3></caption>
+        <thead>
+            <tr>
+                <th>resultado</th>
+                <th>score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{taenia_result}}           </td>
+                <td>{{taenia_score}}            </td>
+            </tr>
+        </tbody>
+    </table>
+
+    </div>
+
+    <div id="image_portrait">
+        <img src="{{image_url}}" ></img>
+    </div>
+
+  </body>
+</html>

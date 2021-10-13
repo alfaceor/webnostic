@@ -1,0 +1,92 @@
+10
+
+dir
+251
+http://webnostic.googlecode.com/svn/branches/parasites/dooframework
+http://webnostic.googlecode.com/svn
+
+
+
+2010-09-19T01:05:52.145467Z
+21
+alfaceor
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+2cfb0615-16c7-2bb1-1d5f-4c0e1b1dc471
+
+app
+dir
+
+deployment
+dir
+
+auth
+dir
+
+cache
+dir
+
+controller
+dir
+
+db
+dir
+
+logging
+dir
+
+Doo.php
+file
+
+
+
+
+2016-03-18T20:47:53.991730Z
+48af710d03dc9afabf38e6c75c8f6381
+2010-06-24T22:21:53.670912Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12120
+
+view
+dir
+
+uri
+dir
+
+helper
+dir
+

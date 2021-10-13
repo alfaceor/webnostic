@@ -1,0 +1,1 @@
+{"id":"2","user_id":"2","value":null,"status_id":"1","ts":null,"description":"microscopio001","imagename":null,"imagepath":"\/home\/alfaceor\/Projects\/web\/webnostic\/app\/dat","_table":"calibration","_primarykey":"id","_fields":["id","user_id","value","status_id","ts","description","imagename","imagepath"]}

@@ -1,0 +1,64 @@
+body{
+
+    background-color: #e4e4e4;
+    border-right-color: #000000;
+    border-left-color: #000000;
+    border-bottom-color: #000000;
+    border-top-color: #000000;
+    border-right-width: 2px;
+    border-left-width: 2px;
+    border-bottom-width: 2px;
+    border-top-width: 2px;
+}
+
+h1{
+
+    font-family: sans-serif;
+}
+
+#user{
+
+    font-family: sans-serif;
+    background-color: #c1c05a;
+}
+
+/*
+.paginate, .current, .inactivePrev, .inactiveNext, .prev, .next {
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+    font-size:12px;
+    border:1px solid #D8D8D8;
+    float:left;
+    height:20px;
+    line-height:20px;
+    margin-right:2px;
+    overflow:hidden;
+    padding:0 6px;
+    text-decoration:none;
+}
+a:hover .paginate{
+    border-color:#006699;
+}
+
+.current {
+    border-color:#006699;
+    background-color:#006699;
+    color:#fff;
+    font-weight:bold;
+}
+.inactivePrev, .inactiveNext{
+    color:#999;
+}
+*/
+/* //For the drag and drop image field.
+#drop {
+  min-height: 100px;
+  width: 200px;
+  border: 3px dashed #ccc;
+  margin: 10px;
+  padding: 10px;
+}
+p {
+  margin: 3px 0;
+}
+
+*/

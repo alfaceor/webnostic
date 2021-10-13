@@ -1,0 +1,24 @@
+<div id="navbar">
+    <div id="list">
+        <div id="user">
+            <h2><a href="<?php echo $data['baseurl']; ?>">Home</a></h2>
+            <h2>Acciones Usuario</h2>
+            <form>
+                    ID de Muestra
+            <input name="q" placeholder="Buscar resultado de muestra">
+            <input type="submit" value="Buscar">
+            </form>
+            <p><a href="<?php echo $data['baseurl']; ?>index.php/jobs/sample/submit">Enviar Muestra</a></p>
+            <p><a href="<?php echo $data['baseurl']; ?>index.php/jobs/sample/list_all">Listar las muestras</a></p>
+            <p><a href="<?php echo $data['baseurl']; ?>index.php/jobs/calibration/submit">Nueva imagen de calibracion</a></p>
+            <p><a href="<?php echo $data['baseurl']; ?>index.php/jobs/calibration/list_all">Listar calibraciones</a></p>
+        </div>
+        <div id="admin">
+            <h2>Acciones de administrador</h2>
+            <p><a href="<?php echo $data['baseurl']; ?>index.php/admin">Modulo de Administracion </a></p>
+            <p><a href="<?php echo $data['baseurl']; ?>index.php/admin/adduser">Anadir usuario</a></p>
+            <p><a href="<?php echo $data['baseurl']; ?>index.php/admin/updateuser">Actualizar usuario</a></p>
+            <p><a href="<?php echo $data['baseurl']; ?>index.php/admin/list_all_users">Listar usuarios</a></p>
+        </div>
+    </div>
+</div>

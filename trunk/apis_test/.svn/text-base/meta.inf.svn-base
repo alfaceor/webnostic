@@ -1,0 +1,1 @@
+{"id":"19","user_id":"8","result":null,"score":null,"calibration_value":"0.77","status_id":"1","ts":null,"imagename":"8-sample-19.jpg","imagepath":"\/home\/alfaceor\/Projects\/web\/webnostic\/app\/data\/photos\/sample","_table":"sample","_primarykey":"id","_fields":["id","user_id","result","score","calibration_value","status_id","ts","imagename","imagepath"]}

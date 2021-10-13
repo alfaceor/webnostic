@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <!-- include 'header' -->
+  </head>
+    
+  <body>
+    <!-- include 'topbar' -->
+    <!-- include 'navbar' -->
+    <h1>{{title}}</h1>
+    <table border="0">
+        <thead>
+        <tr>
+            <th>id</th>
+            <th>user_id</th>
+            <th>calibration_value</th>
+            <th>status_id</th>
+            <th>trichu_result</th>
+            <th>trichu_score</th>
+            <th>diphy_result</th>
+            <th>diphy_score</th>
+            <th>fascio_result</th>
+            <th>fascio_score</th>
+            <th>taenia_result</th>
+            <th>taenia_score</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <!-- loop samples -->
+        <tr>
+            <td><a href="{{baseurl}}index.php/jobs/sample/{{samples' value.@id}}" > {{samples' value.@id}}</a></td>
+            <td> {{samples' value.@user_id}}            </td>
+            <td> {{samples' value.@calibration_value}}  </td>
+            <td> {{samples' value.@status_id}}          </td>
+            <td> {{samples' value.@trichu_result}}      </td>
+            <td> {{samples' value.@trichu_score}}       </td>
+            <td> {{samples' value.@diphy_result}}       </td>
+            <td> {{samples' value.@diphy_score}}        </td>
+            <td> {{samples' value.@fascio_result}}      </td>
+            <td> {{samples' value.@fascio_score}}       </td>
+            <td> {{samples' value.@taenia_result}}      </td>
+            <td> {{samples' value.@taenia_score}}       </td>
+        </tr>
+        <!-- endloop -->
+        </tbody>
+    </table>
+    <div>{{pager}}</div>
+  </body>
+</html>

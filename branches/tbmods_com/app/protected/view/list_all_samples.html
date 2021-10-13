@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <!-- include 'header' -->
+  </head>
+    
+  <body>
+    <!-- include 'topbar' -->
+    <!-- include 'navbar' -->
+    <h1>{{title}}</h1>
+    <table border="0">
+        <thead>
+        <tr>
+            <th>id</th>
+            <th>user_id</th>
+            <th>result</th>
+            <th>score</th>
+            <th>calibration_value</th>
+            <th>status_id</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <!-- loop samples -->
+        <tr>
+            <td><a href="{{baseurl}}index.php/jobs/sample/{{samples' value.@id}}" > {{samples' value.@id}}</a></td>
+            <td> {{samples' value.@user_id}}            </td>
+            <td> {{samples' value.@result}}             </td>
+            <td> {{samples' value.@score}}              </td>
+            <td> {{samples' value.@calibration_value}}  </td>
+            <td> {{samples' value.@status_id}}          </td>
+        </tr>
+        <!-- endloop -->
+        </tbody>
+    </table>
+    <div>{{pager}}</div>
+  </body>
+</html>

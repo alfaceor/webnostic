@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 126
+.curl_getCalibrationJob.sh.swp
+.curl_putSampleResult.sh.swp
+.curl_getCalibrationJob.sh.swp.bk
+.curl_putSampleResult.sh.swp.bk
+
+END

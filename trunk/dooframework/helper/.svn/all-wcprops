@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/dooframework/helper
+END
+DooValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/dooframework/helper/DooValidator.php
+END
+DooMailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/dooframework/helper/DooMailer.php
+END
+DooUrlBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/trunk/dooframework/helper/DooUrlBuilder.php
+END
+DooRestClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/trunk/dooframework/helper/DooRestClient.php
+END
+DooGdImage.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/dooframework/helper/DooGdImage.php
+END
+DooPager.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/trunk/dooframework/helper/DooPager.php
+END
+DooTextHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/trunk/dooframework/helper/DooTextHelper.php
+END
